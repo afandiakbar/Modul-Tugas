@@ -1,2 +1,2 @@
 from matematika import pengurangan as k
-k(80,2)
+k(60,2)
