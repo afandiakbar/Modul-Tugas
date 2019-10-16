@@ -1,6 +1,6 @@
 import matematika
 
-matematika.penjumlahan(100,50)
-matematika.perkalian(10,40)
-matematika.pengurangan(80,2)
-matematika.pembagian(200,10)
+matematika.penjumlahan(100,70)
+matematika.perkalian(20,60)
+matematika.pengurangan(70,4)
+matematika.pembagian(400,20)
