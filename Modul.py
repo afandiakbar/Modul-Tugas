@@ -1,6 +1,6 @@
 import matematika as mtk
 
-mtk.penjumlahan(100,50)
-mtk.perkalian(10,40)
-mtk.pengurangan(80,2)
-mtk.pembagian(200,10)
+mtk.penjumlahan(100,70)
+mtk.perkalian(20,60)
+mtk.pengurangan(70,4)
+mtk.pembagian(400,20)
